@@ -77,7 +77,7 @@ The analysis shows that, there is not much of a difference between the purchases
 4] 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
  It can be seen that, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. Africa and Asia do not have any demand for the products, along with Russia.
 
- 
+= - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - 
 
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
